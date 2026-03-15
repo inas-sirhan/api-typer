@@ -215,4 +215,4 @@ MIT
 
 ---
 
-v0.1.3 — early release. A more robust and feature-rich version will be released soon — stay tuned.
+v0.1.1 — early release. A more robust and feature-rich version will be released soon — stay tuned.
